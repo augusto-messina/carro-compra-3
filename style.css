@@ -1,0 +1,70 @@
+
+.content-logo{
+    width: 60px;
+    height: 60px;
+    .logo{
+        height: 100%;
+    }
+}
+.boton-buscar{
+    padding: 10px 20px;
+    background-color: #B2B0B0;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.fondo-inicial{
+    background-color: rgb(247, 247, 247);
+    height: 500px;
+    background-image: url(./img/fondo_inicial.jpg);
+    background-size: cover;
+    background-position: 0% 50%;
+}
+
+.titulo-pag{
+    margin-top: 4.375rem;
+    font-size: 2.5rem;
+    color: #B31312;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 3.125rem;
+    font-family: 'Nike', sans-serif;
+}
+
+.Cuotas{
+    color:green;
+}
+
+.pie-pag{
+position: relative;
+top: 1.5625rem;
+margin-right: .3125rem;
+display: inline-block;
+}
+.color{
+    color: #fff !important;
+    text-align: center; 
+}
+
+
+@media (max-width: 320px){
+.item {
+    border: 1px solid #000;
+    padding: 10px;
+    border-radius: 20px;
+    width: 80%;
+    left: 40px;
+    position: relative;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    left: 66px;
+    position: relative;
+    font-size: 13px;
+}
+}

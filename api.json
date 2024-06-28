@@ -1,0 +1,40 @@
+[
+    {
+      "precio": 189.000,
+      "id": 1,
+      "title": "Vans ZapatillasU Knu Skool",
+      "thumbnailUrl": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2024/2/20/9391310.jpg"
+    },
+    {
+      "subtitulo": "hola",
+      "precio": 99.999,
+      "id": 2,
+      "title": "Jordan Brooklyn Fleece",
+      "thumbnailUrl": "https://nikearprod.vtexassets.com/arquivos/ids/871152-1000-1000?v=638460358944030000&width=1000&height=1000&aspect=true"
+    },
+    {
+      "precio": 35.999,
+      "id": 3,
+      "title": "BOLSO ADICOLOR CLASSIC ROUND",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c6f51a56dec34a469cb11e7023c19594_9366/Bolso_Adicolor_Classic_Round_Negro_IT7592_01_standard.jpg"
+    },
+    {
+      "precio": 229.999,
+      "id": 6,
+      "title": "Air Jordan 1 Low SE 'Canvas Sky Orange'",
+      "thumbnailUrl": "https://nikearprod.vtexassets.com/arquivos/ids/762695-1200-1200?width=1200&height=1200&aspect=true"
+    },
+    {
+      "precio": 920.999,
+      "id": 4,
+      "title": "Campera M 1996 RETRO NUPTSE JACKET",
+      "thumbnailUrl": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2023/8/18/8731200.jpg"
+    },
+    {
+      "precio": 11.999,
+      "id": 5,
+      "title": "Medias de Entrenamiento Unisex 3 Pares",
+      "thumbnailUrl": "https://nikearprod.vtexassets.com/arquivos/ids/716789-1200-1200?width=1200&height=1200&aspect=true"
+    }
+
+  ]
