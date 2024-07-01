@@ -63,8 +63,16 @@ display: inline-block;
 .p {
     margin-top: 0;
     margin-bottom: 1rem;
-    left: 66px;
+    left: 4.125rem;
     position: relative;
-    font-size: 13px;
+    font-size: .8125rem;
+}
+.color{
+    color: #fff !important;
+    text-align: center; 
+    font-size: .8125rem;
+    position: relative;
+    left: 3.125rem;
 }
 }
+

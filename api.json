@@ -1,12 +1,11 @@
 [
     {
-      "precio": 189.000,
+      "precio": 189.999,
       "id": 1,
       "title": "Vans ZapatillasU Knu Skool",
       "thumbnailUrl": "https://mmgrim2.azureedge.net/MediaFiles/Grimoldi/2024/2/20/9391310.jpg"
     },
     {
-      "subtitulo": "hola",
       "precio": 99.999,
       "id": 2,
       "title": "Jordan Brooklyn Fleece",
@@ -35,6 +34,24 @@
       "id": 5,
       "title": "Medias de Entrenamiento Unisex 3 Pares",
       "thumbnailUrl": "https://nikearprod.vtexassets.com/arquivos/ids/716789-1200-1200?width=1200&height=1200&aspect=true"
+    },
+    {
+      "precio": 119.199,
+      "id": 6,
+      "title": "Buzo con capucha PUMA x P.A.M. Graphic",
+      "thumbnailUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/622677/41/mod01/fnd/ARG/fmt/png"
+    },
+    {
+      "precio":  52.499,
+      "id": 7,
+      "title": "Pantalón essentials piernas anchas",
+      "thumbnailUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/03e18719d0634abfa816af1d010f6b3f_9366/Pantalon_Essentials_3_Tiras_Felpa_Francesa_Piernas_Anchas_Negro_IC8775_21_model.jpg"
+    },
+    {
+      "precio": 179.999,
+      "id": 8,
+      "title": "Zapatillas Slipstream lth ADP",
+      "thumbnailUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_480,h_480/global/389021/27/sv01/fnd/ARG"
     }
 
   ]
